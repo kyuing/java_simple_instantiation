@@ -1,0 +1,55 @@
+PC 1: The computer belonging to Shop has been turned on
+PC 1: Shutting down. Please wait while I update this machine
+
+PC 2: The computer belonging to Shop has been turned on
+PC 2: Shutting down. Please wait while I update this machine
+
+PC 3: The computer belonging to Shop has been turned on
+PC 3: Shutting down. Please wait while I update this machine
+
+PC 4: The computer belonging to Shop has been turned on
+PC 4: Shutting down. Please wait while I update this machine
+
+PC 5: The computer belonging to Shop has been turned on
+PC 5: Shutting down. Please wait while I update this machine
+
+PC 6: The computer belonging to Shop has been turned on
+PC 6: Shutting down. Please wait while I update this machine
+
+PC 7: The computer belonging to Shop has been turned on
+PC 7: Shutting down. Please wait while I update this machine
+
+PC 8: The computer belonging to Shop has been turned on
+PC 8: Shutting down. Please wait while I update this machine
+
+PC 9: The computer belonging to Shop has been turned on
+PC 9: Shutting down. Please wait while I update this machine
+
+PC 10: The computer belonging to Shop has been turned on
+PC 10: Shutting down. Please wait while I update this machine
+
+Ken bought the pc: 
+brand: Apple
+CPU: 100
+RAM: 32
+
+Han bought the pc: 
+brand: HP
+CPU: 200
+RAM: 128
+
+Michael bought the pc: 
+brand: MicroSoft
+CPU: 300
+RAM: 1024
+
+PC 1: The computer belonging to Ken has been turned on
+PC 2: Shutting down. Please wait while I update this machine
+PC 3: Shutting down. Please wait while I update this machine
+PC 4: Shutting down. Please wait while I update this machine
+PC 5: Shutting down. Please wait while I update this machine
+PC 6: Shutting down. Please wait while I update this machine
+PC 7: Shutting down. Please wait while I update this machine
+PC 8: The computer belonging to Han has been turned on
+PC 9: Shutting down. Please wait while I update this machine
+PC 10: The computer belonging to Michael has been turned on
