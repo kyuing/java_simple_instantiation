@@ -1,4 +1,4 @@
-
+//this has main
 public class Shop {
     
 	public Shop() {
