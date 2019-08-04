@@ -10,9 +10,9 @@ public class Shop {
             
             validComputer[i] = new Computer();    //create a new default computer
             System.out.print("PC " + (i+1) + ": ");
-            validComputer[i].turnOn();    //check turn on
+            validComputer[i].turnOn();    //turn on
             System.out.print("PC " + (i+1) + ": ");
-            validComputer[i].turnOff();    //turn on
+            validComputer[i].turnOff();    //turn off
             System.out.println();
         }
         
